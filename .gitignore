@@ -1,0 +1,23 @@
+# Dependencies
+node_modules/
+
+# Data
+saraga_carnatic/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Images
+*.png
+
+# Audio
+*.mp3
+
+# Temp/log files
+tmp-*
+.mlc-log.txt
+
+# OS files
+.DS_Store
+Thumbs.db
